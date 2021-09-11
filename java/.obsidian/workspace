@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "6198ed32d146ea47",
+    "type": "split",
+    "children": [
+      {
+        "id": "44be697f05007a28",
+        "type": "leaf",
+        "dimension": 43.12933025404157,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Future.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "61c0d2fd5751aa6e",
+        "type": "leaf",
+        "dimension": 56.87066974595842,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Future.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7ecce7f1f1ca18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "059ae5162c11c81b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c69aafd32347e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ada3a86b786d5d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 128
+  },
+  "right": {
+    "id": "68ccf1b84dfa8e74",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a57e6c413438a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc595f1c5c82d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Future.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44be697f05007a28",
+  "lastOpenFiles": [
+    "Future.md",
+    "目錄.md",
+    "Lambda.md",
+    "未命名.md",
+    "listenableFuture.md"
+  ]
+}
