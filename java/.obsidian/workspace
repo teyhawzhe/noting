@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "44be697f05007a28",
+        "id": "61c0d2fd5751aa6e",
         "type": "leaf",
-        "dimension": 43.12933025404157,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future.md",
+            "file": "CompletableFuture.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "61c0d2fd5751aa6e",
+        "id": "72b13e3f36069c9e",
         "type": "leaf",
-        "dimension": 56.87066974595842,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future.md",
+            "file": "CompletableFuture.md",
             "mode": "preview"
           }
         }
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future.md",
+                "file": "CompletableFuture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +97,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44be697f05007a28",
+  "active": "61c0d2fd5751aa6e",
   "lastOpenFiles": [
+    "CompletableFuture.md",
+    "Lambda.md",
     "Future.md",
     "目錄.md",
-    "Lambda.md",
     "未命名.md",
     "listenableFuture.md"
   ]
