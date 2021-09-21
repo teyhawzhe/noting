@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "2737e431d0d8ebb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47dccfd60e6ce435",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java/Future.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aba991e161ff3c28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java/Future.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e32e33aab7b5ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "96fea8aa05d797dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df440f25c5d08e69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79f929518e14c1f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f828d58651ed277",
+    "type": "split",
+    "children": [
+      {
+        "id": "555db09f4f20d53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6dd7e878efb6b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/Future.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47dccfd60e6ce435",
+  "lastOpenFiles": [
+    "java/Future.md",
+    "java/目錄.md",
+    "java/CompletableFuture.md"
+  ]
+}
